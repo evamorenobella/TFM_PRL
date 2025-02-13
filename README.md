@@ -6,10 +6,28 @@ El alumnado deberá realizar una **revisión sistemática"** centrada en algunas
 
 - Desigualdad de género y liderazgo.
 
-- Deshumanización/cosificación del trabajador y satifacción laboral.
+- Deshumanización/cosificación del trabajador y satisfacción laboral.
 
-El TFM deberá tener un máximo de 20 páginas (excluyendo la portada y el resumen). Fuente: Times New Roman 12, interlineado 1.15
+El TFM deberá tener un máximo de 30 páginas (excluyendo la portada, el resumen y las referencias bibliográficas). Se pueden incluir ANEXOS. Fuente: Times New Roman 12, interlineado 1.15
 Es muy importante seguir este formato.
+*En la DISCUSIÓN DE LOS RESULTADOS se deberá incluir OBLIGATORIAMENTE un subapartado que sea IMPLICACIONES PRÁCTICAS: BREVE PROPUESTA DE INTERVENCIÓN donde se desarrolle una propuesta de intervención en base a los resultados obtenidos en la revisión sistemática. Este subapartado de IMPLICACIONES PRÁCTICAS deberá incluir:
+(i) Identificación del problema y de las necesidades en base a la literatura (0.5 - 1 página)
+
+(ii) OBJETIVO GENERAL de la propuesta de intervención, (iii) OBJETIVOS ESPECÍFICOS, (iv) Resultados Esperados, y (v) Beneficiarios de la intervención (directos e indirectos) (Todo en 1.5-2 páginas)
+
+(vi) ACTIVIDADES: se describirán brevemente. Estas deben asociarse a los objetivos específicos, para ello se puede crear una tabla. Por ejemplo:
+
+| OBJETIVOS  | ACTIVIDAD |  DESCRIPCIÓN |
+| ------------- | ------------- | ------------- |
+| O.E.1  | A.1 Taller de ejemplo  | Descripción de ejemplo  |
+
+(v) Cronograma de la intervención (en una tabla)
+
+(vi) Presupuesto (en una tabla)
+
+(vii) Evaluación de la intervención
+
+(viii) Conclusiones
   
 
 ## RECURSOS DE AYUDA PARA LA ELABORACIÓN DE LA REVISIÓN SISTEMÁTICA
@@ -19,15 +37,13 @@ Es muy importante seguir este formato.
 - [Cómo realizar una revisión sistemática](https://canal.uned.es/video/6399c39eae6c222d926de9d2)
 - [Revisiones sistemáticas. Biblioteca UNED](https://canal.uned.es/video/5a6f5d8bb1111fbb048b456f)
 - [Revisiones sistemáticas(I)](https://www.youtube.com/watch?v=Mj0ogwRo3uI&t=1s)
--  
+
 
 
 ## Fechas importantes:
 **CONVOCATORIA DE JUNIO:**
 - Fecha límite entrega PROPUESTA: 13 marzo
 - Tutoría grupal para dudas (OPCIONAL): 14 abril (17:00 a 18:00). Se os enviará un enlace a Teams.
-- Fecha límite entrega PROPUESTA (en caso de que no fuera aceptada en el plazo anterior): del 4 al 11 abril
-- Tutoría grupal para dudas (OPCIONAL. Sólo para aquellas personas que se les aceptara la propuesta en el segundo plazo): 28 abril (17:00 a 18:00). Se os enviará un enlace a Teams.
 - Fecha límite entrega TFG: 16 mayo
 
 **CONVOCATORIA DE SEPTIEMBRE:**
