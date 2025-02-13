@@ -60,7 +60,7 @@ Este apartado de BREVE PROPUESTA DE INTERVENCIÓN debe tener una extensión máx
 *LAS ENTREGAS DE LAS PROPUESTAS Y LOS BORRADORES SON OBLIGATORIAS PARA PODER AVANZAR CON EL TRABAJO ADECUADAMENTE
 
 
-## ¿Qué debe incluir la propuesta inicial?
+## ¿Qué debe incluir la propuesta inicial?(Máximo 2 páginas)
 
 La propuesta inicial de la revisión sistemática debe incluir:
 
