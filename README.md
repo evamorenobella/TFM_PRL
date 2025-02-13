@@ -11,6 +11,7 @@ El alumnado deberá realizar una **revisión sistemática** y una **breve propue
 El TFM deberá tener un máximo de 35 páginas (excluyendo la portada, el resumen y las referencias bibliográficas). Se pueden incluir ANEXOS. Fuente: Times New Roman 12, interlineado 1.15
 Es muy importante seguir este formato.
 *En la DISCUSIÓN DE LOS RESULTADOS se deberá incluir **OBLIGATORIAMENTE** un subapartado que sea *IMPLICACIONES PRÁCTICAS: BREVE PROPUESTA DE INTERVENCIÓN* donde se desarrolle una propuesta de intervención en base a los resultados obtenidos en la revisión sistemática. Este subapartado de IMPLICACIONES PRÁCTICAS deberá incluir:
+
 (i) Identificación del problema y de las necesidades en base a la literatura (0.5 - 1 página)
 
 (ii) OBJETIVO GENERAL de la propuesta de intervención, (iii) OBJETIVOS ESPECÍFICOS, (iv) Resultados Esperados, y (v) Beneficiarios de la intervención (directos e indirectos) (Todo en 1.5-2 páginas)
