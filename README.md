@@ -48,7 +48,7 @@ Este apartado de BREVE PROPUESTA DE INTERVENCIÓN debe tener una extensión máx
 - Fecha límite entrega PROPUESTA: 14 marzo (por email)
 - Reunión inicial TFM: 17 marzo
 - Entrega borrador (OBLIGATORIO): 14 abril (por email)
-- Tutoría grupal para dudas (OPCIONAL): 9 mayo (17:00 a 18:00). Se os enviará un enlace a Teams.
+- Tutoría grupal para dudas (OPCIONAL): 9 junio (17:00 a 18:00). Se os enviará un enlace a Teams.
 - Fecha límite entrega TFM: 25 junio (Ágora)
 
 **CONVOCATORIA DE SEPTIEMBRE:**
