@@ -19,7 +19,8 @@ Es muy importante seguir este formato.
 
 | OBJETIVOS  | ACTIVIDAD |  DESCRIPCIÓN |
 | ------------- | ------------- | ------------- |
-| O.E.1  | A.1 Taller de ejemplo  | Descripción de ejemplo  |
+| O.E.1.  | A.1. Taller de ejemplo  | Descripción de ejemplo  |
+| O.E.2.  | A.2. Taller de ejemplo  | Descripción de ejemplo  |
 
 (v) Cronograma de la intervención (en una tabla)
 
