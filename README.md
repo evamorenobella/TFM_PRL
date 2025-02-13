@@ -49,17 +49,16 @@ Este apartado de BREVE PROPUESTA DE INTERVENCIÓN debe tener una extensión máx
 - Reunión inicial TFM: 17 marzo
 - Entrega borrador (OBLIGATORIO): 14 abril (por email)
 - Tutoría grupal para dudas (OPCIONAL): 9 junio (17:00 a 18:00). Se os enviará un enlace a Teams.
-- Fecha límite entrega TFM: 25 junio (Ágora)
+- Fecha límite entrega TFM: 25 junio ( entrega en Ágora)
 
 **CONVOCATORIA DE SEPTIEMBRE:**
 - Fecha límite entrega PROPUESTA: 9 junio (por email)
 - Entrega borrador (OBLIGATORIO): 9 julio (por email)
 - Tutoría grupal para dudas (OPCIONAL): 9 septiembre (17:00 a 18:00). Se os enviará un enlace a Teams.
-- Fecha límite entrega TFG: 25 septiembre
+- Fecha límite entrega TFG: 25 septiembre (entrega en Ágora)
 
 *LAS ENTREGAS DE LAS PROPUESTAS Y LOS BORRADORES SON OBLIGATORIAS PARA PODER AVANZAR CON EL TRABAJO ADECUADAMENTE
 
-**Las entregas se realizarán a través del curso virtual de la asignatura (ÁGORA)**
 
 ## Normas para el uso de Inteligencia Artificial en el TFG
 **1.	Límites en la Generación y Redacción de Contenidos**
