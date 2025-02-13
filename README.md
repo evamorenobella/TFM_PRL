@@ -8,7 +8,7 @@ El alumnado deberá realizar una **revisión sistemática"** centrada en algunas
 
 - Deshumanización/cosificación del trabajador y satisfacción laboral.
 
-El TFM deberá tener un máximo de 30 páginas (excluyendo la portada, el resumen y las referencias bibliográficas). Se pueden incluir ANEXOS. Fuente: Times New Roman 12, interlineado 1.15
+El TFM deberá tener un máximo de 35 páginas (excluyendo la portada, el resumen y las referencias bibliográficas). Se pueden incluir ANEXOS. Fuente: Times New Roman 12, interlineado 1.15
 Es muy importante seguir este formato.
 *En la DISCUSIÓN DE LOS RESULTADOS se deberá incluir OBLIGATORIAMENTE un subapartado que sea IMPLICACIONES PRÁCTICAS: BREVE PROPUESTA DE INTERVENCIÓN donde se desarrolle una propuesta de intervención en base a los resultados obtenidos en la revisión sistemática. Este subapartado de IMPLICACIONES PRÁCTICAS deberá incluir:
 (i) Identificación del problema y de las necesidades en base a la literatura (0.5 - 1 página)
@@ -27,8 +27,10 @@ Es muy importante seguir este formato.
 (vi) Presupuesto (en una tabla)
 
 (vii) Evaluación de la intervención
+ 
+Este apartado de BREVE PROPUESTA DE INTERVENCIÓN debe tener una extensión máxima de 10 páginas. Después se deben incluir las conclusiones (como se menciona en la guía de estudio, bibliografía, etc.)
 
-(viii) Conclusiones
+
   
 
 ## RECURSOS DE AYUDA PARA LA ELABORACIÓN DE LA REVISIÓN SISTEMÁTICA
