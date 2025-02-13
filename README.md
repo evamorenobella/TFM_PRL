@@ -2,7 +2,7 @@
 
 Este es el repositorio creado por la profesora Eva Moreno Bella para proporcionar herramientas y guía al estudiantado que tutorizará en el Máster de Prevención de Riesgos Laborales de la UNED. Las indicaciones aquí proporcionadas estarán supeditadas a las indicaciones propias de la [guía de la asignatura de TFM](https://www.uned.es/universidad/inicio/intranet-general/estudios/masteres/guia-unica-masterpos.html?codAsignatura=22207124&idContenido=1) de dicho máster.
 
-El alumnado deberá realizar una **revisión sistemática"** centrada en algunas de estas dos temáticas:
+El alumnado deberá realizar una **revisión sistemática** y una **breve propuesta de intervención** centrada en algunas de estas dos temáticas:
 
 - Desigualdad de género y liderazgo.
 
@@ -10,7 +10,7 @@ El alumnado deberá realizar una **revisión sistemática"** centrada en algunas
 
 El TFM deberá tener un máximo de 35 páginas (excluyendo la portada, el resumen y las referencias bibliográficas). Se pueden incluir ANEXOS. Fuente: Times New Roman 12, interlineado 1.15
 Es muy importante seguir este formato.
-*En la DISCUSIÓN DE LOS RESULTADOS se deberá incluir OBLIGATORIAMENTE un subapartado que sea IMPLICACIONES PRÁCTICAS: BREVE PROPUESTA DE INTERVENCIÓN donde se desarrolle una propuesta de intervención en base a los resultados obtenidos en la revisión sistemática. Este subapartado de IMPLICACIONES PRÁCTICAS deberá incluir:
+*En la DISCUSIÓN DE LOS RESULTADOS se deberá incluir **OBLIGATORIAMENTE** un subapartado que sea *IMPLICACIONES PRÁCTICAS: BREVE PROPUESTA DE INTERVENCIÓN* donde se desarrolle una propuesta de intervención en base a los resultados obtenidos en la revisión sistemática. Este subapartado de IMPLICACIONES PRÁCTICAS deberá incluir:
 (i) Identificación del problema y de las necesidades en base a la literatura (0.5 - 1 página)
 
 (ii) OBJETIVO GENERAL de la propuesta de intervención, (iii) OBJETIVOS ESPECÍFICOS, (iv) Resultados Esperados, y (v) Beneficiarios de la intervención (directos e indirectos) (Todo en 1.5-2 páginas)
@@ -28,10 +28,8 @@ Es muy importante seguir este formato.
 
 (vii) Evaluación de la intervención
  
-Este apartado de BREVE PROPUESTA DE INTERVENCIÓN debe tener una extensión máxima de 10 páginas. Después se deben incluir las conclusiones (como se menciona en la guía de estudio, bibliografía, etc.)
+Este apartado de BREVE PROPUESTA DE INTERVENCIÓN debe tener una extensión máxima de 10 páginas. Se trata de una breve propuesta de intervención en base a los resultados obtenidos de la revisión sistemática, es por ello que la revisión debe realizare con detalle. ¿Cómo se podría evitar este riesgo psicosocial o problema? Aquí es donde se deben propone una intervención. Después se deben incluir las conclusiones (como se menciona en la guía de estudio, bibliografía, etc.)
 
-
-  
 
 ## RECURSOS DE AYUDA PARA LA ELABORACIÓN DE LA REVISIÓN SISTEMÁTICA
 
@@ -45,7 +43,8 @@ Este apartado de BREVE PROPUESTA DE INTERVENCIÓN debe tener una extensión máx
 
 ## Fechas importantes:
 **CONVOCATORIA DE JUNIO:**
-- Fecha límite entrega PROPUESTA: 13 marzo
+- Fecha límite entrega PROPUESTA: 14 marzo
+- Reunión inicial: 17 marzo (se hablará brevemente de las propuestas)
 - Tutoría grupal para dudas (OPCIONAL): 14 abril (17:00 a 18:00). Se os enviará un enlace a Teams.
 - Fecha límite entrega TFG: 16 mayo
 
