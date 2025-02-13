@@ -60,6 +60,18 @@ Este apartado de BREVE PROPUESTA DE INTERVENCIÓN debe tener una extensión máx
 *LAS ENTREGAS DE LAS PROPUESTAS Y LOS BORRADORES SON OBLIGATORIAS PARA PODER AVANZAR CON EL TRABAJO ADECUADAMENTE
 
 
+## ¿Qué debe incluir la propuesta inicial?
+
+La propuesta inicial de la revisión sistemática debe incluir:
+
+- Título del trabajo
+- Introducción y justificación (máximo 300 palabras)
+- Objetivo del trabajo
+- Criterios de inclusión y exclusión de la búsqueda bibliográfica
+- Bases de datos en las que se realizará la búsqueda
+
+*Se utilizará el método PRISMA
+
 ## Normas para el uso de Inteligencia Artificial en el TFG
 **1.	Límites en la Generación y Redacción de Contenidos**
 - La IA puede ser utilizada para estructurar o generar ideas, pero el contenido principal del TFG debe ser redactado en su **totalidad** por el estudiante.
